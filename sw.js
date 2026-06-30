@@ -1,6 +1,6 @@
 // ===== InkAnimus OS Nexus - Service Worker =====
 // Installazione come PWA + funzionamento offline.
-const CACHE_NAME = 'inkanimus-nexus-v3';
+const CACHE_NAME = 'inkanimus-nexus-v4';
 const ASSETS = [
   './',
   './index.html',
